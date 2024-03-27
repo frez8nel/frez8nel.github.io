@@ -1,0 +1,159 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #ff3d3d;
+    color: #ffffff;
+    padding: 8px 12px;
+    border-radius: 15px;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.top-nav{ 
+    padding: 8px 12px;
+    background-color: #ffdbdb;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top-nav .social-links {
+    list-style: none;
+}
+
+.top-nav .social-links li{
+    display: inline;
+    margin-right: 10px;
+}
+
+.top-nav .social-links li:last-child{
+    margin-right: 0;
+}
+
+nav {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav .logo{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff3d3d;
+}
+
+
+nav .logo span{
+    color: #4346ff;
+}
+
+nav .menu {
+    list-style: none;
+}
+
+nav .menu .menu-item {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav .menu .menu-item:last-of-type {
+    margin-right: 0;
+}
+
+nav .menu a {
+    color: #666666;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+nav .menu .menu-item.active a, 
+nav .menu .menu-item:hover a {
+    color: #ff3d3d;
+}
+
+.a{
+    margin-top: 10px;
+    color: white;
+    background-color: gray;
+    background-size: contain;
+}
+.c{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: fit-content;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right:910px;
+}
+.d{
+    margin-top: -262px;
+    margin-bottom: 8px;
+    border: 1px solid;
+    width: fit-content;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 410px;
+    margin-right: 470px;
+}
+.i{
+    margin-top: 50px;
+}
+.e{
+    margin-top: -260px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: fit-content;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 850px;
+    margin-right: 50px;
+}
+.k{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: fit-content;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 910px;
+}
+.g{
+    margin-top: -260px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: fit-content;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 410px;
+    margin-right: 470px;
+}
+.h{
+    margin-top: -260px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: fit-content;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 850px;
+    margin-right: 50px;
+}
+
+
